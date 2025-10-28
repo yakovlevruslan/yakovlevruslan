@@ -1,18 +1,11 @@
 # RUSLAN YAKOVLEV
 
-## SKILLS
-•CLOUD•ESXI•VCENTER•AWS
-•AZURE•WINDOWS•UNIX•SQL
-•DOCKER•NGINX•GIT•ZABBIX
-•GIS•AGILE•ITIL•ATLASSIAN
 ## PROFILE
-EXPERIENCE IN LEADERSHIP POSITIONS, TEAM MANAGEMENT,
-EXPERIENCE IN SYSTEM ADMINISTRATION AND DEVOPS,
-UNDERSTANDING OF SOFTWARE DESIGN AND DEVELOPMENT
-PROCESSES, EXPERIENCE IN COMMUNICATIONS IN GOVERNMENT
-AGENCIES, UNDERSTANDING OF NETWORK TECHNOLOGIES,
-TEAM MANAGMENT IN THE PROJECTS.
-
+```
+EXPERIENCE IN LEADERSHIP POSITIONS, TEAM MANAGEMENT, EXPERIENCE IN SYSTEM ADMINISTRATION AND DEVOPS,
+UNDERSTANDING OF SOFTWARE DESIGN AND DEVELOPMENT PROCESSES, EXPERIENCE IN COMMUNICATIONS IN GOVERNMENT AGENCIES,
+UNDERSTANDING OF NETWORK TECHNOLOGIES, TEAM MANAGMENT IN THE PROJECTS.
+```
 ## EDUCATION
 National aviation university of Ukraine,
 programmer automated systems support 2006.
@@ -48,28 +41,11 @@ HEAD OF SYSTEM ADMINISTRATION DEPARTMENT | 2007 - 2020
 ```
 - Ensuring the functioning of the company IT infrastructure
 - Configuration vmware, windows/unix, ms Ad, dns, dhcp, vpn, mail ms exchange, proxy, antivir, cisco.
-# CERTIFICATES
+## CERTIFICATES 
 - Microsoft: MCP, MCTS, MCSA
 - Trannings: Team/PM/Itil/Dev...
-# CONTACTS
+## SKILLS
+•CLOUD•ESXI•VCENTER•AWS•AZURE•WINDOWS•UNIX•SQL•DOCKER•NGINX•GIT•ZABBIX•GIS•AGILE•ITIL•ATLASSIAN
+## CONTACTS
 +38 (067) 575-76-24 WHATSAPP|TELEGRAM 
 YAKOVLEV.RUSLAN@GMAIL.COM
-
-
-
-
-
-<!--
-**yakovlevruslan/yakovlevruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
